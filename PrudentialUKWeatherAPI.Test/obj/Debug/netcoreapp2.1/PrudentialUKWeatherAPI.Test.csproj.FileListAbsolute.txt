@@ -1,0 +1,34 @@
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.deps.json
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.runtimeconfig.json
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.runtimeconfig.dev.json
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.pdb
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.csproj.CoreCompileInputs.cache
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.AssemblyInfoInputs.cache
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.AssemblyInfo.cs
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.pdb
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.pdb
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.csprojAssemblyReference.cache
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.csproj.CopyComplete
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.deps.json
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.runtimeconfig.json
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.runtimeconfig.dev.json
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.pdb
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.pdb
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.csprojAssemblyReference.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.AssemblyInfoInputs.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.AssemblyInfo.cs
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.csproj.CopyComplete
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI.Test\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.Test.pdb

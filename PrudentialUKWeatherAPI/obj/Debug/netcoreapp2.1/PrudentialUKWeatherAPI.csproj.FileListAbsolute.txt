@@ -1,0 +1,28 @@
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.RazorAssemblyInfo.cache
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.RazorAssemblyInfo.cs
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.AssemblyInfoInputs.cache
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.AssemblyInfo.cs
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.deps.json
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.runtimeconfig.json
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.runtimeconfig.dev.json
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.pdb
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.RazorTargetAssemblyInfo.cache
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.dll
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.pdb
+C:\Sample project\PrudentialSample\PrudentialSample\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.csprojAssemblyReference.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.deps.json
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.runtimeconfig.json
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.runtimeconfig.dev.json
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\bin\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.pdb
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.csprojAssemblyReference.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.RazorAssemblyInfo.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.RazorAssemblyInfo.cs
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.AssemblyInfoInputs.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.AssemblyInfo.cs
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.RazorTargetAssemblyInfo.cache
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.dll
+C:\Users\akumar\Desktop\Prudential\openweathermap-webapi-netcore\PrudentialUKWeatherAPI\obj\Debug\netcoreapp2.1\PrudentialUKWeatherAPI.pdb
